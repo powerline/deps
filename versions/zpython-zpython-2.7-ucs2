@@ -1,9 +1,9 @@
 2445ba2ee7fa
 cpython-ucs2/cpython-ucs2-2.7:
-    294501835890
+    2db41d551a4f
 zpython/zsh-2.7-ucs2:
     870d880befaede1f55f232717a93ed07b9edb4c6
     zpython/zpython-2.7-ucs2 --depends cpython-ucs2/cpython-ucs2-2.7 --url https://bitbucket.org/ZyX_I/zpython:
         2445ba2ee7fa
         cpython-ucs2/cpython-ucs2-2.7:
-            294501835890
+            2db41d551a4f
