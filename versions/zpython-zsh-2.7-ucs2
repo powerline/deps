@@ -1,5 +1,5 @@
-c6028f7387ad496ade9daaf76ac1683c3002bbf7
+cce4261a3c6f4bf78b483db61623c80e3c98d10b
 zpython/zpython-2.7-ucs2 --depends cpython-ucs2/cpython-ucs2-2.7 --url https://bitbucket.org/ZyX_I/zpython:
     20aaaaf43a7e
     cpython-ucs2/cpython-ucs2-2.7:
-        377fd816c438
+        0ed9ac28deb0
