@@ -1,4 +1,4 @@
-ed4e37e45c2f5761981cdc6027a5d6abc753176a
+d4b94b5e8388c744a1d879fecb5af957b170c4c1
 zpython/zpython-2.7-ucs2 --depends cpython-ucs2/cpython-ucs2-2.7 --url https://bitbucket.org/ZyX_I/zpython:
     847a5f326e07
     cpython-ucs2/cpython-ucs2-2.7:
